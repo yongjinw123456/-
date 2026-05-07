@@ -1,0 +1,8 @@
+{
+  "name": "HydroSafe",
+  "description": "A comprehensive reservoir safety monitoring dashboard for Wenzhou, featuring real-time water level tracking, rainfall monitoring, and risk assessment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
